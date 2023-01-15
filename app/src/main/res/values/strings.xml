@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firentication</string>
+    <string name="hintEmail">xyz@whatever.com</string>
+    <string name="enterEmail">Enter your Email</string>
+    <string name="password">Enter Your Password</string>
+    <string name="signin">Sign In</string>
+    <string name="register">Not Registered Yet? Sign Up!</string>
+    <string name="renter">Renter Your Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="already">Already registered?, Sign In!</string>
+    <string name="signout">Sign Out</string>
+</resources>

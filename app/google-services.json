@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815385388611",
+    "project_id": "firentication",
+    "storage_bucket": "firentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815385388611:android:e9abb435e03a56e51996f6",
+        "android_client_info": {
+          "package_name": "com.example.firentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815385388611-juj3vcriii4of85snql101hpl51l0fuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1W4P0vg12j7pgh-PmLEKY-KraJ3HodgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815385388611-juj3vcriii4of85snql101hpl51l0fuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
